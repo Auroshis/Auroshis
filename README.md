@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Auroshis
-- 🔭 I’m currently working at M2P Fintech
-- 💬 Ask me about **Backend Engineering**
-- 👀 I’m interested in system design.
+- 🔭 I’m currently working at M2P Fintech Solutions as **Product Engineer (Backend)**
+- 👀 I’m interested in **System Design**.
 - 📫 How to reach me <a target="_blank" href="https://www.linkedin.com/in/auroshisray/">LinkedIN</a>
 
 
