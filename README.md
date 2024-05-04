@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Auroshis
-- 🔭 I’m currently working at Dell (1.8+ years)
-- 💬 Ask me about **Backend Engineering - Python & related frameworks, databases**
-- 👀 I’m interested in system design & backend engineering
-- 💞️ I’m looking to collaborate on Web Development/Backend Development projects
+- 🔭 I’m currently working at M2P Fintech
+- 💬 Ask me about **Backend Engineering**
+- 👀 I’m interested in system design.
 - 📫 How to reach me <a target="_blank" href="https://www.linkedin.com/in/auroshisray/">LinkedIN</a>
 
 
