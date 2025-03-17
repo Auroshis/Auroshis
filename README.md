@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Auroshis
-- 🔭 I’m currently working at M2P Fintech Solutions as **Product Engineer (Backend)**. I have 2.8 years of experience.
+- 🔭 I’m currently working as **Backend & Automations Engineer**. I have 3.5+ years of experience.
 - 👀 I’m interested in **Backend Engineering**.
 - 📫 How to reach me <a target="_blank" href="https://www.linkedin.com/in/auroshisray/">LinkedIN</a>
 
